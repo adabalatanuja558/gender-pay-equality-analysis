@@ -11,7 +11,7 @@ Classify factories based on gender pay equality using an "Equality Score".
 
 ---
 
-## 🧠 Approach
+## 🧠 Approach 
 - Created a derived column: **Equality Class** (Fair, Unfair, Highly Discriminative)
 - Built an interactive Tableau dashboard to visualize scores by factory and role
 
