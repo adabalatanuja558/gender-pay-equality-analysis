@@ -4,7 +4,7 @@
 **Project Type**: Tableau Analytics Internship Task  
 **Company**: Deloitte (Daikibo Industrials dataset)
 
----
+--- 
 
 ## 🎯 Goal
 Classify factories based on gender pay equality using an "Equality Score".
