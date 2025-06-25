@@ -8,7 +8,7 @@
 
 ## 🎯 Goal
 Classify factories based on gender pay equality using an "Equality Score".
-
+ 
 ---
 
 ## 🧠 Approach 
