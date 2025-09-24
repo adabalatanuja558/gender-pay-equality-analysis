@@ -1,4 +1,4 @@
-# gender-pay-equality-analysis
+# gender-pay-equality-analysis 
 # ⚖️ Gender Pay Equality Analysis
 
 **Project Type**: Tableau Analytics Internship Task  
